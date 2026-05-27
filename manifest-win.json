@@ -1,6 +1,6 @@
 ﻿{
-    "sha256":  "11d357046336108564bc68830bd635b0fd01fd9c993bd02ae93df230c66959e3",
-    "packageUrl":  "https://github.com/popbob90/senpos-print-agent-releases/releases/download/v1.0.12/senpos_agent-1.0.12-win.zip",
-    "version":  "1.0.12",
+    "sha256":  "b9c1e4c403f4e02003763e4bea560c3f51540a1126bbdb6969aa9dcb4af03845",
+    "packageUrl":  "https://github.com/popbob90/senpos-print-agent-releases/releases/download/v1.0.13/senpos_agent-1.0.13-win.zip",
+    "version":  "1.0.13",
     "installerUrl":  "https://github.com/popbob90/senpos-print-agent-releases/releases/latest/download/senpos_agent.Setup-win-latest.exe"
 }
