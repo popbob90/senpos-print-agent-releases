@@ -1,13 +1,13 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "packages": {
     "osx-arm64": {
-      "packageUrl": "https://github.com/popbob90/senpos-print-agent-releases/releases/download/v1.0.18/senpos_agent-1.0.18-osx-arm64.zip",
-      "sha256": "9cd87ca2814208cb79074b4d0bcc2c3e6474debb0409ed461d4ed6b923c3862f"
+      "packageUrl": "https://github.com/popbob90/senpos-print-agent-releases/releases/download/v1.0.19/senpos_agent-1.0.19-osx-arm64.zip",
+      "sha256": "e6e7faba7dc0eee7eec8e833930f41a3d6501c3960c948771435e424c8cf87ee"
     },
     "osx-x64": {
-      "packageUrl": "https://github.com/popbob90/senpos-print-agent-releases/releases/download/v1.0.18/senpos_agent-1.0.18-osx-x64.zip",
-      "sha256": "e09298cf47f7f5f340d7c439253e1d21b944966c6a7948d37313d9158fb89875"
+      "packageUrl": "https://github.com/popbob90/senpos-print-agent-releases/releases/download/v1.0.19/senpos_agent-1.0.19-osx-x64.zip",
+      "sha256": "1cb78525421d11548d465d47e9288f427240f488da93eb34d928f1cfac465b37"
     }
   }
 }
